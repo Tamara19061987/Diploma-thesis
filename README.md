@@ -31,6 +31,6 @@ pytest -v --alluredir=allure-results test_ui.py
 
 ## Финальный проект
 
-- [Ссылка на финальный проект по ручному тестированию](https://drive.google.com/drive/folders/1M_BEHCbluoL_6zRFbmiyc0s0lin-TzDV?usp=sharing)
+- [Ссылка на финальный проект по ручному тестированию](https://drive.google.com/file/d/13K-9UnvtwQmQejWDz-xsxWFziT_imB4_/view?usp=sharing)
 
 
